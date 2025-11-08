@@ -45,6 +45,10 @@ Capturas del dashboard final
 
 Fórmulas principales utilizadas
 
+🔗 Acceso al Dashboard en Google Sheets
+
+➡️ Dashboard Google Sheets (versión online):  https://docs.google.com/spreadsheets/d/1gXFkrI6kGckSLQIBBacyO4pG4nA1W1waqFWmurUu9vQ/edit?usp=sharing
+
 ✅ Autor
 
 Karolina Romero
